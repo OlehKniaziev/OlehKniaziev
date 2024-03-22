@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there 👋
+I'm Oleh, a programming enthusiast and a healthy lifestyle advocatee. I'm currently studying computer science, learning web development and the best practices. In my free time i like to train martial arts and do calisthenics, as well as learn new things about programming and improve my knowledge.
 
-<!--
-**atmatm9182/atmatm9182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 I’m currently learning
+- Advanced C# and ASP.NET Core techniques, to become an excellent specialist.
+- Front-end development, specifically modern JavaScript and frameworks like React and Next.js, to provide the best user experience.
+- SQL query optimizations, diving deep into the low-level details, to enhance my skills.
 
-Here are some ideas to get you started:
+### 👯 I’m currently looking for an entry level job or an internship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+- Send me an email at oleh.kniaziev@microsoft.wsei.edu.pl
+- Follow me on [LinkedIn](https://www.linkedin.com/in/oleh-kniaziev-576578278/)
+
+If you'd like to learn more about Me, You can check out my [website](https://atmatm9182.github.io). Thanks!
