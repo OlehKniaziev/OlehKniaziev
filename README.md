@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Oleh, a programming enthusiast and a healthy lifestyle advocatee. I'm currently studying computer science, learning web development and the best practices. In my free time i like to train martial arts and do calisthenics, as well as learn new things about programming and improve my knowledge.
+I'm Oleh, a programming enthusiast and a healthy lifestyle advocate. I'm currently studying computer science, learning web development and the best practices. In my free time i like to train martial arts and do calisthenics, as well as learn new things about programming and improve my knowledge.
 
 ### 🌱 I’m currently learning
 - Advanced C# and ASP.NET Core techniques, to become an excellent specialist.
