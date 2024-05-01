@@ -6,8 +6,6 @@ I'm Oleh, a programming enthusiast and a healthy lifestyle advocate. I'm current
 - Front-end development, specifically modern JavaScript and frameworks like React and Next.js, to provide the best user experience.
 - SQL query optimizations, diving deep into the low-level details, to enhance my skills.
 
-### 👯 I’m currently looking for an entry level job or an internship.
-
 ### 📫 How to reach me
 - Send me an email at oleh.kniaziev@microsoft.wsei.edu.pl
 - Follow me on [LinkedIn](https://www.linkedin.com/in/oleh-kniaziev-576578278/)
